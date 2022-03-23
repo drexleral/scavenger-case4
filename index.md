@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Electrical telegraph 
 
-You can use the [editor on GitHub](https://github.com/drexleral/scavenger-case4/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![Telegraph](https://upload.wikimedia.org/wikipedia/commons/9/91/Morse_Telegraph_1837.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+It was a point-to-point text messaging system, used from the 1840s until the late 20th century when it was slowly replaced by other telecommunication systems. At the sending station switches connected a source of current to the telegraph wires. At the receiving station the current activated electromagnets which moved indicators, providing either a visual or audible indication of the text. It was the first electrical telecommunications system and the most widely used of a number of early messaging systems called telegraphs, that were devised to communicate text messages more rapidly than by physical transportation
 
-### Markdown
+Text telegraphy consisted of two or more geographically separated stations (often called telegraph offices) connected by wires, usually supported overhead on utility poles (originally called telegraph poles). There were many different electrical telegraph systems invented, but the ones that became widespread fit into two broad categories.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here is an example on what you hear on an Electrical Telegraph:
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+https://user-images.githubusercontent.com/75349924/159631808-e56d230b-cd1d-4932-8227-f5fd4c50f127.mp4
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+The archetype of this category was the Morse system, invented by Samuel Morse in 1838, using a single wire. At the sending station, an operator would tap on a switch called a telegraph key, spelling out text messages in Morse code. Originally, the armature was intended to make marks on paper tape, but operators learned to interpret the clicks and it was more efficient to write down the message directly. In 1865, the Morse system became the standard for international communication with a modified code developed for German railways. However, some countries continued to use established national systems internally for some time afterwards.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/drexleral/scavenger-case4/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+In the 1840s, the electrical telegraph superseded optical telegraph systems (except in France), becoming the standard way to send urgent messages. By the latter half of the century, most developed nations had created commercial telegraph networks with local telegraph offices in most cities and towns, allowing the public to send messages called telegrams addressed to any person in the country, for a fee. Beginning in 1854, submarine telegraph cables allowed for the first rapid communication between continents. Electrical telegraph networks permitted people and commerce to transmit messages across both continents and oceans almost instantly, with widespread social and economic impacts.[7] In the early 20th century the telegraph was slowly replaced by teletype networks. 
