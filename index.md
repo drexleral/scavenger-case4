@@ -9,7 +9,7 @@ Text telegraphy consisted of two or more geographically separated stations (ofte
 Here is an example on what you hear on an Electrical Telegraph:
 
 
-![Telegaph Sample](https://user-images.githubusercontent.com/75349924/159631808-e56d230b-cd1d-4932-8227-f5fd4c50f127.mp4)
+https://user-images.githubusercontent.com/75349924/159631808-e56d230b-cd1d-4932-8227-f5fd4c50f127.mp4
 
 
 The archetype of this category was the Morse system, invented by Samuel Morse in 1838, using a single wire. At the sending station, an operator would tap on a switch called a telegraph key, spelling out text messages in Morse code. Originally, the armature was intended to make marks on paper tape, but operators learned to interpret the clicks and it was more efficient to write down the message directly. In 1865, the Morse system became the standard for international communication with a modified code developed for German railways. However, some countries continued to use established national systems internally for some time afterwards.
